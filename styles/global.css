@@ -1,0 +1,81 @@
+header {
+    font-family: 'Raleway', sans-serif;
+    background: -webkit-linear-gradient(135deg, rgb(238, 9, 121), rgb(255, 106, 0));
+    background: -moz-linear-gradient(135deg, rgb(238, 9, 121), rgb(255, 106, 0));
+}
+
+
+main#main {
+    padding-top: 100px;
+}
+
+h1.greet {
+    font-family: 'Raleway', sans-serif;
+    color: #212529;
+    font-weight: 600;
+}
+
+h1.greet span {
+    background-image: linear-gradient(135deg, rgb(238, 9, 121), rgb(255, 106, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    font-weight: 800;
+}
+
+h2.charts {
+    font-family: 'Raleway', sans-serif;
+}
+
+table.table {
+    font-family: 'Raleway', sans-serif;
+    color: #212529;
+}
+
+td a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 600;
+}
+
+td a:hover {
+    text-decoration: underline;
+}
+
+td.song-title {
+    font-size: 24px;
+}
+
+#albums-carousel,
+#footer {
+    background: -webkit-linear-gradient(135deg, rgb(238, 9, 121), rgb(255, 106, 0));
+    background: -moz-linear-gradient(135deg, rgb(238, 9, 121), rgb(255, 106, 0));
+    color: #fff;
+}
+
+.review-line {
+    column-gap: 80px;
+}
+
+ц h2.reviews {
+    font-family: 'Raleway', sans-serif;
+    color: #212529;
+}
+
+.card-body {
+    font-family: 'Poppins';
+    color: #212529;
+}
+
+#footer {
+    font-family: 'Raleway';
+}
+
+#footer p {
+    padding-bottom: 5px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: inherit;
+}
